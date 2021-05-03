@@ -65,6 +65,18 @@
         android:textColor="#8E8644"
         android:textColorHint="#A1873B" />
 
+
+    <TextView
+        android:id="@+id/passreset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forget Password "
+        android:layout_marginTop="550sp"
+        android:layout_marginLeft="140sp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp" />
+
+
     <Button
         android:id="@+id/log"
         android:layout_width="259dp"
